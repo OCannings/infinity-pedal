@@ -1,0 +1,16 @@
+{
+  "name": "infinity-pedal",
+  "version": "0.1.0",
+  "description": "Linux Infinity Foot Control pedal bindings (Node.js)",
+  "main": "main.js",
+  "dependencies": {
+    "robotjs": "^0.4.7",
+    "yargs": "^8.0.2"
+  },
+  "devDependencies": {},
+  "author": "OCannings",
+  "license": "MIT",
+  "bin": {
+    "infinity-pedal": "./main.js"
+  }
+}
